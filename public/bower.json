@@ -1,0 +1,17 @@
+{
+  "name": "notas",
+  "version": "0.0.1",
+  "description": "Paquetes del frontend para el proyecto Notas.",
+  "moduleType": [
+    "globals"
+  ],
+  "authors": [
+    "ABACO"
+  ],
+  "license": "MIT",
+  "homepage": "notas.app",
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "bootstrap-material-design": "~0.2.2"
+  }
+}
